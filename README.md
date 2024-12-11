@@ -4,7 +4,7 @@
 
 > *Utilsing *.
 
-## ABOUT
+## ASSIGNMENT
 
 1. A `capitalise` function that takes a string and returns it with the first character capitalized.
 2. A `reverseString` function that takes a string and returns it reversed.
