@@ -2,8 +2,7 @@
 
 ## PURPOSE
 
-> *Test Driven Development (TDD) is a software development practice that focuses on creating unit test cases before developing the actual code. It is an iterative approach combining programming, unit test creation, and refactoring.
-> Test-driven development benefits include: better code quality, clear documentation, confident refactoring, faster debugging, modular development, improved design, stakeholder confidence, team collaboration, predictability, regression prevention, easier onboarding, and long-term cost savings*.
+> *Test Driven Development (TDD) is a software development practice that focuses on creating unit test cases before developing the actual code. It is an iterative approach combining programming, unit test creation, and refactoring.\ Test-driven development benefits include: better code quality, clear documentation, confident refactoring, faster debugging, modular development, improved design, stakeholder confidence, team collaboration, predictability, regression prevention, easier onboarding, and long-term cost savings*.
 
 ## COMPLETED ASSESMENT STEPS
 
