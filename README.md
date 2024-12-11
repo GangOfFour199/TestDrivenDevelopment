@@ -1,6 +1,8 @@
-# TestingDrivenDevelopment
+# TestDrivenDevelopment
 
-> *The last excercise within TOP's Computer Science module, the purpose was to solve a variation of the common **"Knights Tour"** problem. The intention is to demonstrate the shortest path necessitated to traverse from select starting to ending coordinates. This program utilises a **Breadth First Search Algorithm** within the realms of **Graph** data structures*.
+## PURPOSE
+
+> *Utilsing *.
 
 ## ABOUT
 
